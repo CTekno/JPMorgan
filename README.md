@@ -23,7 +23,7 @@ Nós, na JPMorgan Chase & Co., estamos a dar-lhe a oportunidade de adquirir comp
 
 Trabalhar com dados de sistemas críticos de segurança
 - Python
-- Numpy
+- Pandas
 - Matplotlib
 
 ## Task 2.
